@@ -7,4 +7,6 @@ Voici les actions à mener pour réaliser le test :
 - Créer une page pour ajouter un livre et une page pour voir l'ensemble des livres
 
 Vous devrez utiliser spring JPA et respecter l'architecture trois tiers.
+Vous devez gérer vous même la base de données car plusieurs solutions envisageables.
 Il faudra livrer l'ensemble du code comme si celui-ci devait être mis en production !
+Celui-ci devra être push directement sur ce repository avec aussi le dump de la bdd.
